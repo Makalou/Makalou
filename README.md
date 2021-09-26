@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Makalou
-- 👀 I’m interested in game develop
-- 🌱 I’m currently learning C++.
+- 👀 I’m interested in game develop, computer graphics, physics simulation
+- 🌱 I’m currently learning C++ and Python.
 - 📫 How to reach me: 
 -   email:makalou@outlook.com;ousawatoo@gmail.com
 
