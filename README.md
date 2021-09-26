@@ -2,9 +2,7 @@
 - 👀 I’m interested in game develop
 - 🌱 I’m currently learning C++.
 - 📫 How to reach me: 
--   email:
--     makalou@outlook.com
--     ousawatoo@gmail.com
+-   email:makalou@outlook.com;ousawatoo@gmail.com
 
 <!---
 Makalou/Makalou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
